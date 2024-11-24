@@ -1,4 +1,4 @@
-# **Productivity Dashboard**
+# **Productivity Dashboard Chrome Extension**
 
 A Chrome Extension that replaces the default new tab page with a personalized productivity dashboard. This dashboard includes useful widgets like a to-do list, weather updates, and quick notes to help users stay organized and productive.
 
